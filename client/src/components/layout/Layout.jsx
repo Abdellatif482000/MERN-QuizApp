@@ -11,7 +11,7 @@ export default function Layout() {
         className="
           mt-[72px]
           h-screen
-          bg-teal-400
+          bg-teal-900
           z-10
         "
       >
